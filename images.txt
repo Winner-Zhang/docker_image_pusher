@@ -1,6 +1,6 @@
 kasmweb/nginx
 xhofe/alist:latest
-docker.io/library/java:8
+# docker.io/library/java:8
 docker.io/library/php
 docker.io/library/redis
 docker.io/library/tomcat
