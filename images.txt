@@ -1,6 +1,5 @@
 kasmweb/nginx
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
 docker.io/library/java
 docker.io/library/php
 docker.io/library/redis
