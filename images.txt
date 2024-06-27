@@ -11,3 +11,4 @@ docker.io/library/centos
 docker.io/library/alpine
 docker.io/kindest/node
 docker.io/adoptopenjdk/openjdk11
+docker.io/library/openjdk
